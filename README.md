@@ -10,9 +10,9 @@
   *  Какие сетевые службы в ней разрешены?
 ![alt text](https://github.com/AntonKurapov66/is_01_hw/blob/main/img/1_1.PNG)
   *  Какие уязвимости были вами обнаружены? (список со ссылками: достаточно трёх уязвимостей)
-   1. https://www.exploit-db.com/exploits/32849 (PostgreSQL 8.3.6 - Conversion Encoding Remote Denial of Service)
-   2. https://exploit-db.com/exploits/37723 (ISC BIND 9 - TKEY Remote Denial of Service (PoC))
-   3. https://www.exploit-db.com/exploits/23245 (Apache Tomcat 4.0.x - Non-HTTP Request Denial of Service)
+ 1. https://www.exploit-db.com/exploits/32849 (PostgreSQL 8.3.6 - Conversion Encoding Remote Denial of Service)
+ 2. https://exploit-db.com/exploits/37723 (ISC BIND 9 - TKEY Remote Denial of Service (PoC))
+ 3. https://www.exploit-db.com/exploits/23245 (Apache Tomcat 4.0.x - Non-HTTP Request Denial of Service)
 
 ## Задание 2
 * Проведите сканирование Metasploitable в режимах SYN, FIN, Xmas, UDP.
